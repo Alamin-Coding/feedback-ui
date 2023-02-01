@@ -1,0 +1,25 @@
+.card{
+ position: relative;
+ padding: 20px;
+ border-radius: 5px;
+ background: #fffeee;
+ margin: 10px;
+}
+
+.card .num-display{
+ width: 30px;
+ height: 30px;
+ border-radius: 50%;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ background: #ff6a95;
+ color: #fff;
+ position: absolute;
+ left: 0;
+ top: 0;
+ transform: translate(-30%, -30%);
+}
+.card .text-display p{
+ color: #010012;
+}
