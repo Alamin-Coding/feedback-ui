@@ -4,6 +4,11 @@
  border-radius: 5px;
  background: #fffeee;
  margin: 10px;
+ color: #010012;
+}
+.card.reverse{
+ background: #010012;
+ color: #fffeee;
 }
 
 .card .num-display{
@@ -20,6 +25,4 @@
  top: 0;
  transform: translate(-30%, -30%);
 }
-.card .text-display p{
- color: #010012;
-}
+
