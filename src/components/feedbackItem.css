@@ -25,4 +25,14 @@
  top: 0;
  transform: translate(-30%, -30%);
 }
+.close_btn{
+ position: absolute;
+ border: none;
+ top: 3px;
+ right: 3px;
+ color: red;
+ font-size: 20px;
+ cursor: pointer;
+ background: #fffeee;
+}
 
